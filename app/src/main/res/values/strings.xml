@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">APPMUNDIAL</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="Ekaterimburgo_port">El recinto fue inaugurado en 1957 el estadio ahora posee una capacidad de 42 500 espectadores.</string>
+    <string name="Ekaterimburgo_des">El Estadio Central fue construido en 1957. Anteriormente en este territorio de la ciudad también se encontraba una instalación deportiva: desde 1900, el Velódromo; desde 1928, el estadio Regional; y desde 1936 el estadio Metallurg del Este. El estadio ha albergado miles de eventos deportivos y de entretenimiento los primeros años después de su apertura, el estadio se convirtió en uno de los escenarios más importantes del mundo de patinaje de velocidad.
+En 2004 el estadio se convirtió en una empresa pública (en 2010 los accionistas eran el Ministerio de Bienes del óblast de Sverdlovsk con el 25% más una acción; el Ayuntamiento de Ekaterimburgo, 25% más una acción, y el Grupo Sinara, 50% menos dos acciones). Desde septiembre de 2006 hasta 2011, se completó una primera reconstrucción del estadio a gran escala. En 2015-17 completó otra reconstrucción a gran escala.</string>
+
+    <string name="Kaliningrado_port">También conocido por su nombre Arena Baltika, ese estadio será inaugurado en el 2018 y tendrá una capacidad de 45 015 espectadores.</string>
+    <string name="Kaliningrado_des">Se decidió construir un estadio nuevo en de la ciudad de Kaliningrado debido a que el estadio con el que cuenta la ciudad (Estadio Baltika) no tiene suficiente capacidad, es muy antiguo y no esta bien ubicado para un evento de tal envergadura. Por tal razón se pensó en un estadio con más capacidad, más moderno y con mejor acceso. Había un factor extra a considerar en el proceso de diseño del estadio: la capacidad del estadio tiene que ser reducida a aproximadamente 25 000 asientos cuando termine el mundial, con el fin de que el estadio pueda seguir siendo útil a la población relativamente pequeña de la región.</string>
+
+    <string name="cosmos_port">También llamado Samara Arena ubicado en la ciudad de Samara en Rusia, tiene una capacidad de 45 000 espectadores. Su apertura será 28 de abril de 2018.</string>
+    <string name="cosmos_des">Se decidió construir un estadio nuevo en de la ciudad de Kaliningrado debido a que el estadio con el que cuenta la ciudad (Estadio Baltika) no tiene suficiente capacidad, es muy antiguo y no esta bien ubicado para un evento de tal envergadura. Por tal razón se pensó en un estadio con más capacidad, más moderno y con mejor acceso. Había un factor extra a considerar en el proceso de diseño del estadio: la capacidad del estadio tiene que ser reducida a aproximadamente 25 000 asientos cuando termine el mundial, con el fin de que el estadio pueda seguir siendo útil a la población relativamente pequeña de la región.</string>
+
+    <string name="krestovski_port">ubicado en la ciudad de San Petersburgo, Rusia. Es el estadio local del FC Zenit San Petersburgo su apertura fue en 22 de Abril de 2017 con una capacidad de 70 000 espectadores.</string>
+    <string name="krestovski_des">En un primer momento el nombre temporal del recinto fue «Estadio de fútbol en la parte occidental de la isla Krestovsk​ ya que todavía no había sido elegido el nombre oficial. El complejo deportivo también se le conoce, simplemente, como «Estadio Zenit» y «Gazprom-Arena», ya que se asumió que el Zenit San Petersburgo de fútbol sería el principal club que utilizaría el estadio y su principal patrocinador era la compañía Gazprom, empresa que posee la mayoría de las acciones del Zenit y que comenzó inyectando fondos en la obra,5​6​ pero que, al final, se financió a través del presupuesto de la ciudad.</string>
+
+    <string name="kazan_port">De la ciudad de Kazán, Rusia. El estadio cuenta con una capacidad total de 45 500 espectadores sentados. Las obras de construcción comenzaron en mayo de 2010 y el recinto fue inaugurado en 2013</string>
+    <string name="kazan_des">El acto de colocación de la primera piedra del estadio el 5 de mayo 2010 contó con la presencia del presidente del Gobierno de Rusia, Vladímir Putin. Según él, la construcción del estadio iba a ser la carta de triunfo en la lucha por el derecho a organizar la Copa Mundial de la FIFA 2018 en Rusia. El proceso de construcción del estadio se llevó a cabo bajo la estrecha supervisión de la República de Tartaristán. Más de 10 veces desde el comienzo de la construcción del Kazan Arena a la que asistieron representantes de la FISU y la FIFA. En la construcción se ha involucrado al mismo tiempo hasta 3000 personas, entre ellas atraídos principalmente por la mejora de los habitantes de las regiones de la república. La construcción del estadio fue transmitido por las cámaras web de internet en línea. El costo de construcción se estimó en 14,4 mil millones de rublos.</string>
+
+    <string name="luzhniki_port">Es un estadio multiusos de Moscú, capital de Rusia. Su capacidad total es de 81 500 asientos, todos ellos cubiertos, fue inaugurado en el 31 de julio de 1956</string>
+    <string name="luzhniki_des">Fue construido en 1956 en una zona descampada a orillas del río Moscova, la obra estaba a cargo de los arquitectos I.A. Rozhin, N.N. Ullas, A.F. Jryákov y A.V. Vlásov; así como los ingenieros V.N. Nasónov, N.M. Réznikov, V.P. Polikárpov e inaugurado con el nombre de "Estadio Central Lenin" (en ruso Центральный стадион имени В.И. Ленина, Tsentralni Stadión Ímeni V.I. Lénina) el 31 de julio de 1956 con un partido de fútbol en que la Selección de la Unión Soviética venció a su similar de China por 1-0, en ese entonces su capacidad era de 102.000 espectadores.</string>
+
+    <string name="mordovia_port">Actualmente en fase de construcción, contará con una capacidad de 45100 espectadores y será inaugurado en el 2018 en la Copa Mundial de la FIFA </string>
+    <string name="mordovia_des">Sus obras se iniciaron en el año 2010 a cargo del grupo SaranskGrazhdanProekt dirigido por el arquitecto alemán Tim Hupe y estaba previsto que finalizara la construcción del estadio a partir del 2012 para diferentes eventos deportivos que se celebraban en ese año, pero posteriormente la apertura se pospuso para el año 2015, debido a la idea de la creación de un complejo deportivo que cuente con instalaciones de baloncesto y voleibol, también se construirán diferentes locales de ocio, permitiéndose así ser un estadio de competencia internacional.</string>
+
+    <string name="novgorod_port">Es un estadio de fútbol que se encuentra en fase de construcción Nizhni Nóvgorod, Rusia contará con una capacidad de 55300 espectadores y su apertura será el 15 de abril 2018</string>
+    <string name="novgorod_des">l club de la ciudad, el FC Volga Nizhny Novgorod, disputará sus partidos como local en este estadio, que será una de las sedes del Mundial de Fútbol de 2018 de Rusia.1​ El estadio tiene una capacidad para 44.899 aficionados. y para el Mundial 2018 el estadio tendrá una capacidad de 55.300 espectadores. Sin embargo, esta capacidad se logrará a través de gradas telescópicas y tras la Copa del Mundo la capacidad del estadio se reducirá a 25.000 localidades.
+El nuevo estadio para el Campeonato Mundial de Fútbol 2018 en la ciudad de Nizhni Nóvgorod se levantó en la histórica región Strelka, lugar de la confluencia de dos ríos grandes: Volga y Oká. De aquí se abre una vista al Kremlin, situado en el lado opuesto del río.</string>
+
+    <string name="sochi_port">Es un estadio multiusos de Sochi, Rusia. Fue inaugurado en 2013 y fue diseñado sobre la base de una concha de mar. El estadio tiene una capacidad de 48.000 espectadores sentados.</string>
+    <string name="sochi_des">Las paredes y el techo del estadio serán de una superficie de vidrio continuo diseñado para reflejar la luz solar frente al mar durante el día. El cuenco se abre hacia el norte, lo que permite una visión directa de las montañas de Krásnaya Poliana, y la cubierta superior se abre hacia el sur, lo que permite una vista del mar Negro. El estadio ha sido diseñado por The Populous Sport Venue Event Company y Buro Happold. El diseño final fue presentado en septiembre de 2009.</string>
+
+    <string name="otkrytie_port">propiedad del Spartak de Moscú. El estadio fue inaugurado el 5 de septiembre de 2014 y cuenta con una capacidad total de 45 000 espectadores todos sentados. También es conocido como el estadio Spartak</string>
+    <string name="otkrytie_des">El estadio fue construido en el sitio del aeródromo Tushino. El diseño actual ha sido desarrollado por AECOM3​ y Dexter Moren Associates y también cuenta con un estadio cubierto independiente. La financiación principal de la construcción fue aportada por el dueño del club, Leonid Fedun a través de empresas afiliadas como la compañía Lukoil e IFD Kapital.</string>
+
+    <string name="rostov_port">Con una capacidad total de 43.702 espectadores sentados. El estadio es utilizado por el FC Rostov, el club de fútbol de la ciudad, para disputar sus partidos como local. El estadio fue inaugurado el 15 de abril de 2018.</string>
+    <string name="rostov_des">En agosto de 2013, se comenzó a trabajar en la base de aluvión de arena para el estadio.4​ El trabajo en la fundación se completó en mayo de 2014. La construcción comenzó en la infraestructura del estadio en octubre de 2015. En diciembre, el sitio de construcción comenzó a traer equipos pesados ​​y materiales de construcción. En enero de 2015, los equipos comenzaron a conducir los montones.</string>
+
+    <string name="volgogrado_port">Tiene una capacidad total de 45 500 espectadores sentados el recinto comenzó a construirse en 2014 y se inauguró en el 2017</string>
+    <string name="volgogrado_des">El estadio fue diseñado por el FSUE de Moscú "Sport-Engineering", que ganó una competencia abierta. El contratista general de la construcción es Stroytransgaz.
+El costo total del proyecto, incluido el trabajo de construcción real, primero fue estimado por las autoridades locales en 10 mil millones de rublos.1​ En octubre de 2014, el costo preliminar de la construcción del estadio de Volgogrado para la Copa Mundial de Fútbol de 2018 se estimó en 17 mil millones de rublos.</string>
+
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    <string name="rusia_port">Ránking FIFA: 65
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 22 (2002) – n. p. (2006) – n. p. (2010) – 24 (2014)</string>
+    <string name="rusia_des">No son los mejores tiempos para la anfitriona, huérfana de la clase que atesoraron antes tantas generaciones de futbolistas soviéticos o incluso la que con Karpin y Mostovoi a la cabeza defendieron al nuevo estado surgido tras la caída del Muro. Presentará un equipo esforzado y entusiasta con pinceladas de calidad de Dzagoev en la mediapunta y Smolov en la delantera.</string>
+
+    <string name="alemania_port">Ránking FIFA: 1.
+Posiciones en los últimos cinco Mundiales: 7 (1998) – 2 (2002) – 3 (2006) – 3 (2010) – 1 (2014)</string>
+    <string name="alemania_des">Sumó un pleno de diez victorias en diez partidos para llegar a Rusia, pero es que no pierde un partido de clasificación para un Mundial desde 2001. No cae desde que Francia le superó en la semifinal de la última Eurocopa y el último verano hizo una demostración de poder al ganar la Copa Confederaciones con un plantel alternativo. El reto para Joachim Löw será gestionar y encontrar la mezcla entre el equipo campeón hace cuatro años en Brasil y la nueva generación que llega.</string>
+
+    <string name="brazil_port">Ránking FIFA: 2.
+Posiciones en los últimos cinco Mundiales: 2 (1998) – 1 (2002) – 5 (2006) – 6 (2010) – 4 (2014)</string>
+    <string name="brazil_des">Descripción: Es la única selección que ha disputado todos los mundiales, pero en el verano de 2016 tras seis jornadas disputadas era sexta y no estaba ni en puesto de repesca. Llegó entonces a la dirección técnica Tite para reemplazar a Dunga, ganaron nueve partidos seguidos y fueron los primeros en sacar el billete para Rusia. Tiene consolidado un once tipo y puede elegir entre ilustres relevos porque Ederson, Daviz Luiz, Thiago Silva, Filipe, Wilian o Firmino no están en él.</string>
+
+    <string name="portugal_port">Ránking FIFA: 3.
+Posiciones en los últimos cinco Mundiales: no participó (1998) – 21 (2002) – 4 (2006) – 11 (2010) – 18 (2014)</string>
+    <string name="portugal_des">Cayó en el primer partido de su grupo en Suiza, en plena resaca por el título de la Eurocopa y sin Cristiano Ronaldo, y necesitó ganar los nueve restantes para asegurarse la clasificación. El delantero madridista resultó decisivo porque logró 15 goles en nueve partidos y dispone del apoyo de André Silva para no tener que anclarse en punta.</string>
+
+    <string name="argentina_port">Ránking FIFA: 4
+Posiciones en los últimos cinco Mundiales: 5 (1998) – 18 (2002) – 6 (2006) – 5 (2010) – 2 (2014)</string>
+    <string name="argentina_des">Logró el pase tras grandes padecimientos y ganar apenas 7 partidos de 18. Por el camino contó con tres entrenadores (Martino, Bauza y Sampaoli) y con 44 futbolistas que disputaron al menos un minuto en esas citas. Trece más estuvieron convocados y no fueron empleados. Solo Romero y Di María participaron en todos, Messi por sanción o lesión se perdió ocho, nunca dejó de ser decisivo y ofreció señales de jugar muchas veces sin compañía a su altura.</string>
+
+    <string name="belgica_port">Ránking FIFA: 5
+Posiciones en los últimos cinco Mundiales: 19 (1998) – 14 (2002) – n. P. (2006) – n. p. (2010) – 6 (2014)</string>
+    <string name="belgica_des">Roberto Martínez llegó a los mandos tras la Eurocopa y en su debut sufrió un baño en Bruselas ante España. Luego se asentó para sumar nueve partidos y un empate en un grupo accesible y con Lukaku marcando diferencias con once tantos en ocho partidos. Dependerá en Rusia del nivel que ofrezcan De Bruyne y Hazard, un flamenco y un balón.</string>
+
+    <string name="polonia_port">Ránking FIFA: 6
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 25 (2002) – 21 (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="polonia_des">Pasó los noventa en blanco, sacó la cabeza con el cambio de siglo y ahora vuelve a apuntar alto con futbolistas acostumbrados a jugar al máximo nivel como Szczesny, Glik, Pisczeck, Milik, Blaszczykowski y, sobre todo, Lewandowski, el máximo goleador de la fase de grupos europea con 16 tantos, más de la mitad de los de su equipo. Con todo es un equipo vulnerable atrás, solo acabó con su meta a cero en dos de los diez encuentros que disputó para llegar a Rusia.</string>
+
+    <string name="francia_port">Ránking FIFA: 7
+Posiciones en los últimos cinco Mundiales: 1 (1998) – 28 (2002) – 2 (2006) – 29 (2010) – 7 (2014)</string>
+    <string name="francia_des">Descripcion: Complicó su clasificación con una surrealista derrota en Suecia y un empate en Toulouse ante Luxemburgo, pero pudo rectificar a lomos de su inmenso potencial. La progesión de Varane y Umtiti apuntala la zaga y a partir de ahí Deschamps tiene donde elegir por más que ignore a Benzema y siga en la búsqueda de un nueve que se asiente en la selección. Aúna físico y seda aunque en el centro del campo adolece de pausa. Quizás no la precise.</string>
+
+    <string name="españa_port">Ránking FIFA: 8
+Posiciones en los últimos cinco Mundiales: 17 (1998) – 5 (2002) – 9 (2006) – 1 (2010) – 23 (2014)</string>
+    <string name="españa_des">2017 ha servido para completar sin derrotas una transición que se intúa complicada y que empieza a ser dulce. El grupo de clasificación se resolvió con 36 goles a favor y apenas 3 en contra, nueve victorias y un empate en Turín ante Italia y la consolidación de nuevas piezas y un  seleccionador, con Isco como abanderado de una nueva ola que mezcla con los campeones del mundo que perviven. El debate sobre el delantero se diluye porque aunque nadie se consolide si da la impresión de que el técnico tiene opciones diferentes para elegir, incluso la de jugar sin nueve.</string>
+
+    <string name="peru_port">Ránking FIFA: 10
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="peru_des">No cataba un Mundial desde 1982, ocho ausencias que han sido un mundo para un país apasionado por el fútbol que se había quedado con la miel en los labios en 1998 cuando protagonizaron una remontada que al final no pudieron culminar. En esta ocasión llegaron a tiempo para acceder a la repesca y aprovechar la buena ola de las dos últimas Copa América en las que acabó tercera y quinta con el argentino Ricardo Gareca al frente. Su potencial está en ataque con los expertos Farfán y Guerrero y el talento de Cueva y Carrillo tras ellos.</string>
+
+    <string name="suiza_port">Ránking FIFA: 11
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – 10 (2006) – 19 (2010) – 11 (2014)</string>
+    <string name="suiza_des">Lamentó haberse quedado sin una plaza directa tras ganar sus nueve primeros partidos y caer en el último en Lisboa, pero ni en ese duelo decisivo ante Portugal ni contra Irlanda del Norte en la repesca dejó buenas sensaciones. Seférovic se consolida como referencia atacante, pero no realizadora y tanto Shaqiri como Xhaka parecen haber llegado a su tope.</string>
+
+    <string name="inglaterra_port">Ránking FIFA: 12
+Posiciones en los últimos cinco Mundiales: 9 (1998) – 6 (2002) – 7 (2006) – 13 (2010) – 26 (2014)</string>
+    <string name="inglaterra_des">Sam Allardyce dirigió el primer partido con una importante victoria sobre la bocina en Eslovaquia, pero su forzada dimisión abrió paso a Gareth Southgate, que pilotó un equipo sobrio que apenas cedió tres goles (dos de ellos en su empate en Escocia) y que sacó adelante una clasificación sin brillo. Se trata de un grupo de futbolistas joven en el que sus referencias (Kane, Stones, Alli, Rashford, Dier) no llegan a los 25 años y con el reto de estar a la altura del pasado exigible a los inventores del fútbol y del futuro de una base que empieza a cosechar triunfos.</string>
+
+    <string name="colombia_port">Ránking FIFA: 13
+Posiciones en los últimos cinco Mundiales: 21 (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – 5 (2014)</string>
+    <string name="colombia_des">Irregular, fue de más a menos mientras recuperaba la mejor versión de algunas de sus mejores piezas. Falcao ha vuelto y el equipo expone experiencia con él, James, Cuadrado, "La Roca" Sánchez o Abel Aguilar, que asumirán el desafío de mostrar en Rusia que su punto de madurez no estaba hace cuatro años. Para la zaga llegan jóvenes como Yerry Mina o Davinson Sánchez.</string>
+
+    <string name="mexico_port">Ránking FIFA: 16
+Posiciones en los últimos cinco Mundiales: 13 (1998) – 11 (2002) – 15 (2006) – 14 (2010) – 10 (2014)</string>
+    <string name="mexico_des">Tratará de superar su tope en los seis últimos mundiales, los octavos de final, con un equipo en el que cabe la experiencia de Guardado, Chicharito, los hermanos Dos Santos, Ochoa o Vela, incluso la de Rafa Márquez, y arriban sensaciones como Hirving Lozano. El técnico Juan Carlos Osorio ha logrado completar el ciclo, tarea nada sencilla en un entorno volcánico que no le perdonó caer en la Copa Confederaciones 7-0 ante Chile a pesar de haberse mantenido invicto en los diez partidos anteriores. Pero la clasificación fue impoluta, con victorias en Estados Unidos u Honduras, terrenos nada propicios históricamente.</string>
+
+    <string name="uruguay_port">Ránking FIFA: 17
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 26 (2002) – n. p. (2006) – 4 (2010) – 12 (2014)</string>
+    <string name="uruguay_des">Los charrúas dieron un paso adelante. Habían disputado las cuatro últimas repescas y en esta ocasión lograron el billete sin pasar por ese trance, con Cavani como máximo goleador de la eliminatoria sudaméricana con diez dianas. Suárez no disputó por sanción las cuatro primeras jornadas, pero en ellas el equipo sumó nueve puntos y encarriló el pase. Mostró ya entonces con sendas goleadas a Colombia y Chile la inaccesibilidad del feudo del Centenario, donde no pudieron marcarle siete de sus nueve rivales.</string>
+
+    <string name="croacia_port">Ránking FIFA: 18
+Posiciones en los últimos cinco Mundiales: 3 (1998) – 23 (2002) – 22 (2006) – n. p. (2010) – 19 (2014)</string>
+    <string name="croacia_des">El seleccionador Ante Cacic fue destituido antes del último partido de la fase de grupos tras un empate contra Finlandia que puso en peligro incluso el acceso a la repesca. Ahí, ya con Zlatko Dalic al mando, superaron de forma solvente a Grecia. Sufrieron de más los croatas, victimas de balcánicos vaivenes, impredecibles. Se trata de un equipo hecho, con continuidad y que sabe que está ante su momento.</string>
+
+    <string name="dinamarca_port">El seleccionador Ante Cacic fue destituido antes del último partido de la fase de grupos tras un empate contra Finlandia que puso en peligro incluso el acceso a la repesca. Ahí, ya con Zlatko Dalic al mando, superaron de forma solvente a Grecia. Sufrieron de más los croatas, victimas de balcánicos vaivenes, impredecibles. Se trata de un equipo hecho, con continuidad y que sabe que está ante su momento.</string>
+    <string name="dinamarca_des">El equipo fue a más tras una derrota contra Montenegro que le dejó contra las cuerdas. Pero en los siete partidos restantes sumó cinco triunfos y dos empates, goleó a Polonia se desquitó ante los balcánicos y pasó como un avión en el duelo final de la repesca contra Irlanda con Eriksen, el centrocampista del Tottenham, como guía del equipo y autor de once goles, incluído un hat-trick final en Dublín.</string>
+
+    <string name="islandia_port">Ránking FIFA: 21
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="islandia_des">Logró darle continuidad a su epopeya de la Eurocopa para convertirse en el país menos poblado capaz de debutar en un Mundial. Lo hizo tras dominar un grupo en el que dejó atrás a Croacia, Ucrania y Turquía en base a su fútbol directo, de brega y segunda jugada y las pinceladas del excelente Sigurdsson. Fue constante y afortunada en momentos clave como los triunfos en el descuento ante croatas y finlandeses en Reikiavik, donde nadie puntuó.</string>
+
+    <string name="costarica_port">Ránking FIFA: 22
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 19 (2002) – 31 (2006) – n. p. (2010) – 8 (2014)</string>
+    <string name="costarica_des">No sufrieron tanto como en anteriores procesos clasificatorios de manera que pudieron permitirse no ganar sus tres últimos partidos. Antes habían logrado incluso el hito de derrotar a Estados Unidos en los dos partidos del hexágonal final. Con Óscar Ramírez al frente han matizado su juego respecto al pasado Mundial para dejar atrás el perfil defensivo que exhibieron en ese campeonato.</string>
+
+    <string name="suecia_port">Ránking FIFA: 25
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 13 (2002) – 14 (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="suecia_des">Dio el bombazo al eliminar a Italia y aún así entra en el Mundial sin mostrar grandes virtudes. Berg y Toivonen le dan esfuerzo en la delantera, pero es inevitable añorar a Ibrahimovic, sobre el que se especula sobre un regreso. Comienzan a dejarse ver los campeones europeos sub-21 de hace dos años (Lindelöf, Augustinsson, Guidetti o Kiese Thelin), pero el mayor talento, casi el único sin Ibra, lo atesora Forsberg, el centrocampista del Leipzig.</string>
+
+    <string name="tunez_port">Ránking FIFA: 28
+Posiciones en los últimos cinco Mundiales: 26 (1998) – 29 (2002) – 24 (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="tunez_des"> Tuvo la fortuna de caer en el grupo final más accesible de la clasificación africana y lo resolvieron sin derrotas. Se trata de un combo con buen trato de balón, pero con mayoría de futbolistas sin experiencia en ligas europeas. Regresan a un Mundial tras perderse los dos últimos.
+</string>
+
+    <string name="egipto_port">Ránking FIFA: 30
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="egipto_des">Han pasado 28 años desde la última clasificación egipcia para un Mundial. En ese tiempo alzaron cuatro Copas de África, pero penaron cada vez que intentó repetir sus experiencias en Italia (solo jugó los mundiales de 1934 y 1990). Un desempate perdido ante Argelia les dejó sin el billete a Sudáfrica hace ocho años y cayeron entonces en un agujero. Llamaron a Héctor Cúper y les llevó a un subcampeonato continental y ahora a Rusia, donde se aguarda que el mítico meta El Hadary se convierta con 45 años en el jugador más veterano en disputar un Mundial.</string>
+
+    <string name="senegal_port">Ránking FIFA: 32
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – 7 (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="senegal_des">Su primer y único Mundial había sido el de Corea y Japón, donde se exhibieron hasta caer en la prórroga de los cuartos de final contra Turquía. En 2009 se quedaron fuera del Mundial eliminados por sus vecinos gambianos antes de la última fase de grupos. Tocaron fondo y se levantaron con un equipo físico y vertical con futbolistas con bagaje en grandes ligas y en el que sobresalen Sadio Mané, delantero del Liverpool, y Kalidou Koulibaly, central del Nápoles.</string>
+
+    <string name="iran_port">Ránking FIFA: 34
+Posiciones en los últimos cinco Mundiales: 20 (1998) – n. p. (2002) – 25 (2006) – n. p. (2010) – 28 (2014)</string>
+    <string name="iran_des">Carlos Queiroz cumplirá en abril siete años al frente de la selección persa, a la que ya clasificó para el anterior Mundial y a la que ha dado una vuelta de tuerca gracias a la aportación del delantero Sardar Azmoun, la estrella del Rostov ruso, que le da un nuevo matiz a un combinado que ya en Brasil mostró que sabe defender muy bien y que concedió apenas cinco goles en los 18 partidos de clasificación que disputó. Nadie logró ganarle.</string>
+
+    <string name="servia_port">Decripcion corta:
+Ránking FIFA: 38
+Posiciones en los últimos cinco Mundiales: 10 (1998) – n. p. (2002) – 32 (2006) – 23 (2010) – n. p. (2014)</string>
+    <string name="servia_des">Vuelven tras la ausencia de 2014 y las decepciones de los dos campeonatos anteriores. Lo hacen mientras aguardan la eclosión de la generación campeona del mundo sub20 hace dos años. Por ahora mandan los veteranos, Matic, Ivanovic, Kolarov o el meta Stojkovic.</string>
+
+    <string name="nigeria_port">Ránking FIFA: 41
+Posiciones en los últimos cinco Mundiales: 12 (1998) – 27 (2002) – n. p. (2006) – 27 (2010) – 16 (2014)</string>
+    <string name="nigeria_des">Uno de los gigantes africanos, ya casi un clásico con su sexta presencia en los siete últimos campeonatos. Dejó atrás un grupo de hierro con Zambia, Camerún y Argelia, todas ellas campeonas continentales y las dos últimas también presentes en el último Mundial de Brasil. Nadie pudo ganar a los nigerianos, donde todavía ordena Obi Mikel y marcan diferencias Iheanacho, Iwobi y Victor Moses. Sigue la búsqueda de un portero de garantías con la última probatura de Francis Uzoho, el meta del fiial del Deportivo.</string>
+
+    <string name="austraia_port">Ránking FIFA: 43
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – 16 (2006) – 21 (2010) – 30 (2014)</string>
+    <string name="australia_des">No es la mejor Australia, pero sí un equipo que bajo la dirección técnica de Ange Postecoglou trata de poner en juego un estilo más combinativo del acostumbrado. Con todo, no sobra talento y todavía descolla Tim Cahill, que llegará al Mundial con 38 años y de retirada en el fútbol local.</string>
+
+    <string name="japon_port">Ránking FIFA: 44
+Posiciones en los últimos cinco Mundiales: 31 (1998) – 9 (2002) – 28 (2006) – 9 (2010) – 29 (2014)</string>
+    <string name="japon_des">No tuvo una clasificación cómoda a pesar de que le sobró un partido y acomete un proceso de renovación del que salió reforzado por los resultados el seleccionador Vahid Halilhodzic. Clásicos como Honda, Kawaga, Okazaki y Kiyotake han dejado de ser esenciales e incluso tienen comprometida su presencia en Rusia. Perviven veteranos que aún rinden al máximo nivel en Europa como Hasebe, Nagatomo o Yoshida, pero Japón todavía espera a un gran delantero que le haga marcar diferencias. Y no aparece.</string>
+
+    <string name="marruecos_port">Ránking FIFA: 48
+Posiciones en los últimos cinco Mundiales: 18 (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="marruecos_des">Veinte años después regresa entre los grandes con un equipo que despierta expectación por su buen pie, en la línea de las mejores selecciones de la historia del país, siempre de un elevado nivel técnico. Logró el pase de manera incontestada con un triunfo en casa de Costa de Marfil, Benatia lidera una zaga en la que el madridista Achraf puede evolucionar en los dos laterales. Ziyech desoyó en su día la oferta de Holanda, su país de nacimiento, para defender el de sus ancestros y pone el desborde con Amrabat. El mediapunta Belhanda se encarga del pase. Falta un delantero de postín.</string>
+
+    <string name="panama_port">Ránking FIFA: 49
+Posiciones en los últimos cinco Mundiales: n. p. (1998) – n. p. (2002) – n. p. (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="panama_des">Debutará en un Mundial al que llega tras superar en la jornada final del hexágonal a Costa Rica, que ya estaba en Rusia y aprovechar el petardazo de Estados Unidos en Trinidad y Tobago, que necesitaba un empate para clasificarse y perdió ante una selección eliminada. Dirige el colombiano “Bolillo” Gómez, que irá a su quinto Mundial. En dos estuvo como asistente de Pacho Maturana y luego dirigió a Colombia y Ecuador. Tiene mayoría de futbolistas en el exterior, pero pocos en equipos europeos.</string>
+
+    <string name="coredelsur_port">Ránking FIFA: 62
+Posiciones en los últimos cinco Mundiales: 30 (1998) – 4 (2002) – 17 (2006) – 15 (2010) – 27 (2014)</string>
+    <string name="coreadelsur_des">Descripción: Padeció más que nunca para asegurar su noveno Mundial consecutivo, siempre presente desde 1986. Por ello no acabó la clasificación Uli Stielike, que dispuso un equipo menos competitivo de lo acostumbrado que apenas ganó cuatro partidos de diez en el grupo final. Le bastó para entrar como segundo. Son Heung-Min, el futbolista del Tottenham, es el futbolista más destacado, pero también uno de los más intermitentes.</string>
+
+
+    <string name="arabiasaudita_port">63
+Posiciones en los últimos cinco Mundiales: 28 (1998) – 32 (2002) – 28 (2006) – n. p. (2010) – n. p. (2014)</string>
+    <string name="arabiasaudita_des">Ausente en Sudáfrica y Brasil ha recuperado su versión de futbolistas técnicos, pero también proclives a la displicencia. Siempre inestable en los despachos, acaba de perder dos amistosos contra Portugal y Bukgaria que le han costado el puesto al técnico argentino Edgardo Bauza </string>
+
+</resources>
